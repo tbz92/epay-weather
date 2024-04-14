@@ -14,9 +14,8 @@ git clone ""
 cd epay-weather
 ```
 
-### Create .env file in project root. Copy .env.e
 ```sh
-cd epay-weather
+Rename .env.example to .env. Add API_KEY
 ```
 
 ### Run command to install packages
