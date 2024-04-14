@@ -6,7 +6,7 @@ A small weather app with forecast and search ability for next hours and for the 
 
 ### Clone project from Git repository
 ```sh
-git clone ""
+git clone git@github.com:tbz92/epay-weather.git
 ```
 
 ### Navigate to epay-weather folder
