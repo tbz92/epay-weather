@@ -15,7 +15,7 @@ cd epay-weather
 ```
 
 ```sh
-Rename .env.example to .env. Add API_KEY
+Rename .env.example to .env. Assign api key to VITE_API_KEY
 ```
 
 ### Run command to install packages
